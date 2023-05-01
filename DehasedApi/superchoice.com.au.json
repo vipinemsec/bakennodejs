@@ -1,0 +1,954 @@
+{
+    "error": "false",
+    "message": {
+        "adapt.io": [
+            {
+                "email_address": "ali.gibson@superchoice.com.au",
+                "fullname": "Ali Gibson",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "jcameron@superchoice.com.au",
+                "fullname": "James Cameron",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "merin.bineesh@superchoice.com.au",
+                "fullname": "Merin Bineesh",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "mo.khan@superchoice.com.au",
+                "fullname": "Mo Khan",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "paul.riddle@superchoice.com.au",
+                "fullname": "Paul Riddle",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "rob.woods@superchoice.com.au",
+                "fullname": "Rob Woods",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "stuart.korchinski@superchoice.com.au",
+                "fullname": "Stuart Korchinski",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "andy.johnson@superchoice.com.au",
+                "fullname": "Andy Johnson",
+                "indexed": "2021-02-03"
+            },
+            
+            {
+                "email_address": "james@superchoice.com.au",
+                "fullname": "James Wylde",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "kevin.low@superchoice.com.au",
+                "fullname": "Kevin Low",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "naveen.cissp@superchoice.com.au",
+                "fullname": "Naveen Risk",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "ian.gibson@superchoice.com.au",
+                "fullname": "Ian Gibson",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "naveen.sharma@superchoice.com.au",
+                "fullname": "Naveen Sharma",
+                "indexed": "2021-02-03"
+            },
+            {
+                "email_address": "tony.gold@superchoice.com.au",
+                "fullname": "Tony Gold",
+                "indexed": "2021-02-03"
+            }
+        ],
+        "adobe.com": [
+            {
+                "email_address": "ron.dowd@superchoice.com.au",
+                "password": "vq9mjY78jRrioxG6CatHBw==",
+                "indexed": "2017-02-07"
+            },
+            {
+                "email_address": "eric.fry@superchoice.com.au",
+                "password": "FV2qSZzOx7hiC+\/HRa6bdQ==",
+                "indexed": "2017-02-07"
+            },
+            {
+                "email_address": "support@superchoice.com.au",
+                "password": "ym2FRXv6ZMA=",
+                "indexed": "2017-02-06"
+            },
+            {
+                "email_address": "david.delaney@superchoice.com.au",
+                "indexed": "2017-02-07"
+            }
+        ],
+        "antipublic-combo": [
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "password": "Fulham1",
+                "indexed": "2020-02-29"
+            }
+        ],
+        "apollo.io": [
+            {
+                "email_address": "ivan.pang@superchoice.com.au",
+                "fullname": "Ivan Pang",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "janos.gyenge@superchoice.com.au",
+                "fullname": "Janos Gyenge",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "naveen.sharma@superchoice.com.au",
+                "fullname": "Naveen Cissp",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "shivani.mehta@superchoice.com.au",
+                "fullname": "Shivani Mehta",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "rob.woods@superchoice.com.au",
+                "fullname": "Rob Woods",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "james.cameron@superchoice.com.au",
+                "fullname": "James Cameron",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "jonathan.samuel@superchoice.com.au",
+                "fullname": "Jonathan Samuel",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "phil.white@superchoice.com.au",
+                "fullname": "Phil White",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "stuart.korchinski@superchoice.com.au",
+                "fullname": "Stuart Korchinski",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "andrew.callus@superchoice.com.au",
+                "fullname": "Andrew Callus",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "kevin.grondelle@superchoice.com.au",
+                "fullname": "Kevin Grondelle",
+                "city": "Melbourne",
+                "state": "Victoria",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "quentin.luu@superchoice.com.au",
+                "fullname": "Quentin Luu",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "michelle.nera@superchoice.com.au",
+                "fullname": "Michelle Nera",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "david.bentley@superchoice.com.au",
+                "fullname": "David Bentley",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "ganapatrao.haval@superchoice.com.au",
+                "fullname": "Ganapatrao Haval",
+                "city": "Strathfield",
+                "state": "New South Wales",
+                "country": "Australia",
+                "postcode": "2135",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "sylvia.duhlevska@superchoice.com.au",
+                "fullname": "Sylvia Duhlevska",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "michael.voet@superchoice.com.au",
+                "fullname": "Michael Voet",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "mum.gmail@superchoice.com.au",
+                "fullname": "Mum Gmail",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "stephen.staden@superchoice.com.au",
+                "fullname": "Stephen Staden",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "james.wylde@superchoice.com.au",
+                "fullname": "James Wylde",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "jack.chen@superchoice.com.au",
+                "fullname": "Jack Chen",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "merin.bineesh@superchoice.com.au",
+                "fullname": "Merin Bineesh",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "mitty.rathnakumar@superchoice.com.au",
+                "fullname": "Mitty Rathnakumar",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "susan.robinson@superchoice.com.au",
+                "fullname": "Susan Robinson",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "gordon.williamson@superchoice.com.au",
+                "fullname": "Gordon Williamson",
+                "city": "Melbourne",
+                "state": "Victoria",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "jaroslav.sedlacek@superchoice.com.au",
+                "fullname": "Jaroslav Sedlacek",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "vasudha.parpati@superchoice.com.au",
+                "fullname": "Vasudha Parpati",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "chris.colman@superchoice.com.au",
+                "fullname": "Chris Colman",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "max.cheung@superchoice.com.au",
+                "fullname": "Max Cheung",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "alex.vamos@superchoice.com.au",
+                "fullname": "Alex Vamos",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "nisha.hussain@superchoice.com.au",
+                "fullname": "Nisha Hussain",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "erin.oshea@superchoice.com.au",
+                "fullname": "Erin O'Shea",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "jason.border@superchoice.com.au",
+                "fullname": "Jason Border",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "orna.nicholl@superchoice.com.au",
+                "fullname": "Orna Nicholl",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "fullname": "Ian Thomas",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "clarissa.rosario@superchoice.com.au",
+                "fullname": "Clarissa Rosario",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "ali.gibson@superchoice.com.au",
+                "fullname": "Ali Gibson",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "tony.gold@superchoice.com.au",
+                "fullname": "Tony Gold",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "sasikumar.sadasivam@superchoice.com.au",
+                "fullname": "Sasikumar Sadasivam",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "tony.tan@superchoice.com.au",
+                "fullname": "Tony Tan",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "christopher.mcneal@superchoice.com.au",
+                "fullname": "Christopher McNeal",
+                "city": "Lakeland",
+                "state": "Florida",
+                "country": "United States",
+                "indexed": "2020-09-15"
+            },
+            {
+                "email_address": "venkata.nagothi@superchoice.com.au",
+                "fullname": "Venkata Nagothi",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "Australia",
+                "indexed": "2020-09-15"
+            }
+        ],
+        "bit.ly": [
+            {
+                "email_address": "peter.philip@superchoice.com.au",
+                "username": "pphilip",
+                "password": "1c1852da86adf9a57b74633f862d7e2f",
+                "indexed": "2018-05-09"
+            }
+        ],
+        "cit0day.in": [
+            {
+                "email_address": "shirley.wong@superchoice.com.au",
+                "password": "swong12",
+                "breachname": "changsabaitherapy.com.au",
+                "indexed": "2020-11-13"
+            }
+        ],
+        "collection-1": [
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "password": "Fulham1",
+                "indexed": "2019-02-17"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "password": "Fulham1",
+                "indexed": "2019-02-06"
+            }
+        ],
+        "collection-4-eu": [
+            {
+                "email_address": "colin.butler@superchoice.com.au",
+                "password": "Bonny1!!",
+                "indexed": "2020-02-15"
+            },
+            {
+                "email_address": "colin.butler@superchoice.com.au",
+                "password": "Bonny1!!",
+                "indexed": "2020-02-15"
+            },
+            {
+                "email_address": "colin.butler@superchoice.com.au",
+                "password": "Bonny1!!",
+                "indexed": "2020-02-14"
+            },
+            {
+                "email_address": "colin.butler@superchoice.com.au",
+                "password": "Bonny1!!",
+                "indexed": "2020-02-14"
+            }
+        ],
+        "collection-4-u": [
+            {
+                "email_address": "colin.butler@superchoice.com.au",
+                "password": "Bonny1!!",
+                "indexed": "2019-04-09"
+            },
+            {
+                "email_address": "colin.butler@superchoice.com.au",
+                "password": "Bonny1!!",
+                "indexed": "2019-04-15"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "password": "Fulham1",
+                "indexed": "2019-04-05"
+            }
+        ],
+        "crunchbase.com": [
+            {
+                "email_address": "enquiries@superchoice.com.au",
+                "fullname": "SuperChoice",
+                "phone": "1300 659 456",
+                "address": "Level 8, 35 Clarence Street",
+                "city": "Sydney",
+                "country": "AUS",
+                "indexed": "2022-03-16"
+            }
+        ],
+        "dropbox.com": [
+            {
+                "email_address": "peter.mcdonald@superchoice.com.au",
+                "password": "$2a$08$Fus9A6gHXxyS4KoyMpDPu.BpnG3fGMWaSNWnTemRjLEl9\/6ZKxccW",
+                "indexed": "2017-02-05"
+            }
+        ],
+        "gonitro.com": [
+            {
+                "userid": "-1280371330778113301",
+                "email_address": "alex.vamos@superchoice.com.au",
+                "secret": "7RQZblajAoluS6a23c7f4-191c-47d7-a1aa-9ddb1f3be238SJkTWfOfq8m9luSXs",
+                "indexed": "2021-04-21"
+            },
+            {
+                "userid": "8334378974400686036",
+                "email_address": "erin.oshea@superchoice.com.au",
+                "secret": "f1YhFpttb3cbF4a58dfc8-798b-4fed-a2e1-ec07e4b80da0rLcNyHGPI4-KMp48y",
+                "indexed": "2021-04-21"
+            },
+            {
+                "userid": "-9144867026237190663",
+                "email_address": "james.wylde@superchoice.com.au",
+                "secret": "4scys7LSr5Nmh81573982-c927-423d-a239-276150671a7dc8uEIK_HffGmph4aU",
+                "indexed": "2021-04-21"
+            },
+            {
+                "userid": "8123611454155854940",
+                "email_address": "jason.korchinski@superchoice.com.au",
+                "secret": "cGEjz769-EHRU4eda9a40-29d4-4437-af03-b9df5dbe3254_2OMHAMdlp7GOsf1s",
+                "indexed": "2021-04-21"
+            }
+        ],
+        "houzz.com": [
+            {
+                "userid": "45548751",
+                "email_address": "sudu.ratnappuly@superchoice.com.au",
+                "username": "sudu_ratnappuly",
+                "password": "__SEC__01v7YndU9aCpFsNuzUHrSxg232eWR1hWs\/74BPgaxxXp59ODwJp522fu4gwIUsi\/R9gRn1oGWnEA\/pXDE06Ufk0AAIjBfuWxowh6o7a0",
+                "indexed": "2020-04-24"
+            }
+        ],
+        "linkedin.com": [
+            {
+                "email_address": "pritch@superchoice.com.au",
+                "password": "552a321b1033cae254a0b445704ae7810a656045",
+                "indexed": "2020-02-07"
+            },
+            {
+                "email_address": "colin.butler@superchoice.com.au",
+                "password": "dbeb29d138c908826d3eae08f95838c301885048",
+                "indexed": "2020-02-07"
+            }
+        ],
+        "onlinerspambot": [
+            {
+                "email_address": "claudette.couch@superchoice.com.au",
+                "indexed": "2020-02-19"
+            },
+            {
+                "email_address": "claudette.couch@superchoice.com.au",
+                "indexed": "2020-02-19"
+            },
+            {
+                "email_address": "jay.chiba@superchoice.com.au",
+                "indexed": "2020-02-19"
+            },
+            {
+                "email_address": "jay.chiba@superchoice.com.au",
+                "indexed": "2020-02-19"
+            },
+            {
+                "email_address": "claudette.couch@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "indexed": "2020-02-19"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "indexed": "2020-02-19"
+            },
+            {
+                "email_address": "tony.russell@superchoice.com.au",
+                "indexed": "2020-02-20"
+            },
+            {
+                "email_address": "tony.russell@superchoice.com.au",
+                "indexed": "2020-02-20"
+            },
+            {
+                "email_address": "claudette.couch@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "tony.russell@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "jay.chiba@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "claudette.couch@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "tony.russell@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "jay.chiba@superchoice.com.au",
+                "indexed": "2020-02-24"
+            },
+            {
+                "email_address": "claudette.couch@superchoice.com.au",
+                "indexed": "2020-02-24"
+            }
+        ],
+        "peopledatalabs": [
+            {
+                "email_address": "deepthi.narayan@superchoice.com.au",
+                "fullname": "deepthi narayan",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-18"
+            },
+            {
+                "email_address": "andrew.callus@superchoice.com.au",
+                "fullname": "andrew callus",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "gordon.williamson@superchoice.com.au",
+                "fullname": "gordon williamson",
+                "address": "melbourne, victoria, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "stuart.korchinski@gmail.com,stuartkorchinski@gmail.com,stuart.korchinski@superchoice.com.au",
+                "fullname": "stuart korchinski",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "alex.vamos@superchoice.com.au",
+                "fullname": "alex vamos",
+                "phone": "61411822143",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "nikita.lopez@superchoice.com.au",
+                "fullname": "nikita lopez",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "skorchinski@citistreet.com.au,stuart.korchinski@superchoice.com.au",
+                "fullname": "stuart korchinski",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-18"
+            },
+            {
+                "email_address": "svanstaden@iqgroup.com.au,stephen.vanstaden@superchoice.com.au",
+                "fullname": "stephen van staden",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "jack.chen@superchoice.com.au",
+                "fullname": "jack chen",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "nag1010@gmail.com,venkata.nagothi@superchoice.com.au",
+                "fullname": "venkata nagothi",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "shirley.wong@superchoice.com.au",
+                "fullname": "shirley wong",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "david.delaney@superchoice.com.au",
+                "fullname": "david delaney",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "philip_r_white@yahoo.com.au,phil.white@superchoice.com.au",
+                "fullname": "phil white",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-20"
+            },
+            {
+                "email_address": "jwtempleton65@gmail.com,john.templeton@veda.com.au,john.templeton@superchoice.com.au",
+                "fullname": "john templeton",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-18"
+            },
+            {
+                "email_address": "janos.gyenge@gmail.com,janos.gyenge@superchoice.com.au",
+                "fullname": "janos gyenge",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-18"
+            },
+            {
+                "email_address": "michelle.nera@superchoice.com.au",
+                "fullname": "michelle nera",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-18"
+            },
+            {
+                "email_address": "jase80@gmail.com,jason.border@superchoice.com.au",
+                "fullname": "jason border",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-18"
+            },
+            {
+                "email_address": "peter.jong@superchoice.com.au",
+                "fullname": "peter jong",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-18"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "fullname": "ian thomas",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "quentin.luu@superchoice.com.au",
+                "fullname": "quentin luu",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "nasir.mahmood@superchoice.com.au",
+                "fullname": "nasir mahmood",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "tgold@iqgroup.com.au,tony.gold@superchoice.com.au",
+                "fullname": "tony gold",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "james.h.wylde@gmail.com,jameshwylde@gmail.com,james.wylde@superchoice.com.au",
+                "fullname": "james wylde",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "colin.butler@superchoice.com.au",
+                "fullname": "colin butler",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "andyj@contractorzoo.com.au,andyj@byte.com.au,andy.johnson@superchoice.com.au",
+                "fullname": "andy johnson",
+                "address": "melbourne, victoria, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "vasudhaparpati@gmail.com,vasudha.parpati@fujixerox.com,vasudha.parpati@gmail.com,vasudha.parpati@superchoice.com.au",
+                "fullname": "vasudha parpati",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-18"
+            },
+            {
+                "email_address": "jill.robert@superchoice.com.au",
+                "fullname": "jill robert",
+                "address": "australia",
+                "indexed": "2020-12-16"
+            },
+            {
+                "email_address": "shivanim85@gmail.com,shivani.mehta@superchoice.com.au",
+                "fullname": "shivani mehta",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-16"
+            },
+            {
+                "email_address": "brandon.sandoval@superchoice.com.au",
+                "fullname": "brandon sandoval",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "usha.antony@superchoice.com.au",
+                "fullname": "usha antony",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-17"
+            },
+            {
+                "email_address": "tony.tan@superchoice.com.au",
+                "fullname": "tony tan",
+                "address": "yagoona, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "kara.cz@gmail.com,jaroslav.sedlacek@superchoice.com.au",
+                "fullname": "jaroslav sedlacek",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "mitty.rathnakumar@vodafone.com,mitty.rathnakumar@superchoice.com.au",
+                "fullname": "mitty rathnakumar",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "brizie_d@hotmail.com,brian.wilson@superchoice.com.au",
+                "fullname": "brian wilson",
+                "address": "london, greater london, united kingdom",
+                "indexed": "2020-12-19"
+            },
+            {
+                "email_address": "rob.woods@vedaadvantage.com,rob.woods@superchoice.com.au",
+                "fullname": "rob woods",
+                "phone": "61414517211",
+                "address": "sydney, new south wales, australia",
+                "indexed": "2020-12-20"
+            }
+        ],
+        "slideteam.net": [
+            {
+                "userid": "95969",
+                "email_address": "ram.byreddy@superchoice.com.au",
+                "password": "3ac2a0a94e50e6a152144e54bdeb579b:Ih:0",
+                "firstname": "Ram",
+                "lastname": "Byreddy",
+                "indexed": "2022-09-14"
+            }
+        ],
+        "verifications.io": [
+            {
+                "email_address": "david.spira@superchoice.com.au",
+                "indexed": "2020-08-19"
+            },
+            {
+                "email_address": "christine.koppe@superchoice.com.au",
+                "indexed": "2020-08-19"
+            },
+            {
+                "email_address": "mark.persohn@superchoice.com.au",
+                "indexed": "2020-08-19"
+            },
+            {
+                "email_address": "ian.thomas@superchoice.com.au",
+                "indexed": "2020-08-20"
+            },
+            {
+                "email_address": "peter.philip@superchoice.com.au",
+                "indexed": "2020-08-18"
+            },
+            {
+                "email_address": "ron.dowd@superchoice.com.au",
+                "indexed": "2020-08-18"
+            },
+            {
+                "email_address": "david.delaney@superchoice.com.au",
+                "indexed": "2020-08-18"
+            },
+            {
+                "email_address": "debi.phillips@superchoice.com.au",
+                "indexed": "2020-08-18"
+            },
+            {
+                "email_address": "superchoiceenquiries@superchoice.com.au",
+                "indexed": "2020-08-20"
+            },
+            {
+                "email_address": "maurice.hill@superchoice.com.au",
+                "indexed": "2020-08-19"
+            },
+            {
+                "email_address": "claudette.couch@superchoice.com.au",
+                "indexed": "2020-08-20"
+            },
+            {
+                "email_address": "mike.fielding@superchoice.com.au",
+                "phone": "(02) 8038-675",
+                "state": "NSW",
+                "indexed": "2020-08-21"
+            },
+            {
+                "email_address": "maurice.hill@superchoice.com.au",
+                "indexed": "2020-08-21"
+            },
+            {
+                "email_address": "david.spira@superchoice.com.au",
+                "indexed": "2020-08-21"
+            },
+            {
+                "email_address": "christine.koppe@superchoice.com.au",
+                "indexed": "2020-08-21"
+            },
+            {
+                "email_address": "mark.persohn@superchoice.com.au",
+                "indexed": "2020-08-21"
+            }
+        ],
+        "wattpad.com": [
+            {
+                "userid": "32248857",
+                "email_address": "jill.robert@superchoice.com.au",
+                "username": "jillrobert",
+                "password": "f75686aac44d6937d237d333120e08a2760da19ff2ce9853c496cf1e7e97f914",
+                "salt": "d2e1a4c569e7018cc142e9cce755a964bd9b193d2d31f02d80bb589c959afd7e",
+                "indexed": "2020-11-11"
+            }
+        ]
+    }
+}

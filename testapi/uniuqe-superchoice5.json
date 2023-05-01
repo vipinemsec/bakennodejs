@@ -1,0 +1,1223 @@
+[{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941ae"
+  },
+  "email_address": "ali.gibson@superchoice.com.au",
+  "fullname": "Ali Gibson",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941b1"
+  },
+  "email_address": "jcameron@superchoice.com.au",
+  "fullname": "James Cameron",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941b3"
+  },
+  "email_address": "merin.bineesh@superchoice.com.au",
+  "fullname": "Merin Bineesh",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941b5"
+  },
+  "email_address": "mo.khan@superchoice.com.au",
+  "fullname": "Mo Khan",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941b7"
+  },
+  "email_address": "paul.riddle@superchoice.com.au",
+  "fullname": "Paul Riddle",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941b9"
+  },
+  "email_address": "rob.woods@superchoice.com.au",
+  "fullname": "Rob Woods",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941bb"
+  },
+  "email_address": "stuart.korchinski@superchoice.com.au",
+  "fullname": "Stuart Korchinski",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941bd"
+  },
+  "email_address": "andy.johnson@superchoice.com.au",
+  "fullname": "Andy Johnson",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941bf"
+  },
+  "email_address": "james@superchoice.com.au",
+  "fullname": "James Wylde",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941c1"
+  },
+  "email_address": "kevin.low@superchoice.com.au",
+  "fullname": "Kevin Low",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941c3"
+  },
+  "email_address": "naveen.cissp@superchoice.com.au",
+  "fullname": "Naveen Risk",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941c5"
+  },
+  "email_address": "ian.gibson@superchoice.com.au",
+  "fullname": "Ian Gibson",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941c7"
+  },
+  "email_address": "naveen.sharma@superchoice.com.au",
+  "fullname": "Naveen Sharma",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941c9"
+  },
+  "email_address": "tony.gold@superchoice.com.au",
+  "fullname": "Tony Gold",
+  "indexed": "2021-02-03",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941cb"
+  },
+  "email_address": "ron.dowd@superchoice.com.au",
+  "password": "vq9mjY78jRrioxG6CatHBw==",
+  "indexed": "2017-02-07",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941cd"
+  },
+  "email_address": "eric.fry@superchoice.com.au",
+  "password": "FV2qSZzOx7hiC+/HRa6bdQ==",
+  "indexed": "2017-02-07",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941cf"
+  },
+  "email_address": "support@superchoice.com.au",
+  "password": "ym2FRXv6ZMA=",
+  "indexed": "2017-02-06",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941d1"
+  },
+  "email_address": "david.delaney@superchoice.com.au",
+  "indexed": "2017-02-07",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941d3"
+  },
+  "email_address": "ian.thomas@superchoice.com.au",
+  "password": "Fulham1",
+  "indexed": "2020-02-29",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941d5"
+  },
+  "email_address": "ivan.pang@superchoice.com.au",
+  "fullname": "Ivan Pang",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941d7"
+  },
+  "email_address": "janos.gyenge@superchoice.com.au",
+  "fullname": "Janos Gyenge",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941d9"
+  },
+  "email_address": "shivani.mehta@superchoice.com.au",
+  "fullname": "Shivani Mehta",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941db"
+  },
+  "email_address": "james.cameron@superchoice.com.au",
+  "fullname": "James Cameron",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941dd"
+  },
+  "email_address": "jonathan.samuel@superchoice.com.au",
+  "fullname": "Jonathan Samuel",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941df"
+  },
+  "email_address": "phil.white@superchoice.com.au",
+  "fullname": "Phil White",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941e1"
+  },
+  "email_address": "andrew.callus@superchoice.com.au",
+  "fullname": "Andrew Callus",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941e3"
+  },
+  "email_address": "kevin.grondelle@superchoice.com.au",
+  "fullname": "Kevin Grondelle",
+  "city": "Melbourne",
+  "state": "Victoria",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941e5"
+  },
+  "email_address": "quentin.luu@superchoice.com.au",
+  "fullname": "Quentin Luu",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941e7"
+  },
+  "email_address": "michelle.nera@superchoice.com.au",
+  "fullname": "Michelle Nera",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941e9"
+  },
+  "email_address": "david.bentley@superchoice.com.au",
+  "fullname": "David Bentley",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941eb"
+  },
+  "email_address": "ganapatrao.haval@superchoice.com.au",
+  "fullname": "Ganapatrao Haval",
+  "city": "Strathfield",
+  "state": "New South Wales",
+  "country": "Australia",
+  "postcode": "2135",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941ed"
+  },
+  "email_address": "sylvia.duhlevska@superchoice.com.au",
+  "fullname": "Sylvia Duhlevska",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941ef"
+  },
+  "email_address": "michael.voet@superchoice.com.au",
+  "fullname": "Michael Voet",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941f1"
+  },
+  "email_address": "mum.gmail@superchoice.com.au",
+  "fullname": "Mum Gmail",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941f3"
+  },
+  "email_address": "stephen.staden@superchoice.com.au",
+  "fullname": "Stephen Staden",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941f5"
+  },
+  "email_address": "james.wylde@superchoice.com.au",
+  "fullname": "James Wylde",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941f7"
+  },
+  "email_address": "jack.chen@superchoice.com.au",
+  "fullname": "Jack Chen",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941f9"
+  },
+  "email_address": "mitty.rathnakumar@superchoice.com.au",
+  "fullname": "Mitty Rathnakumar",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941fb"
+  },
+  "email_address": "susan.robinson@superchoice.com.au",
+  "fullname": "Susan Robinson",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941fd"
+  },
+  "email_address": "gordon.williamson@superchoice.com.au",
+  "fullname": "Gordon Williamson",
+  "city": "Melbourne",
+  "state": "Victoria",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab6941ff"
+  },
+  "email_address": "jaroslav.sedlacek@superchoice.com.au",
+  "fullname": "Jaroslav Sedlacek",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab694201"
+  },
+  "email_address": "vasudha.parpati@superchoice.com.au",
+  "fullname": "Vasudha Parpati",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab694203"
+  },
+  "email_address": "chris.colman@superchoice.com.au",
+  "fullname": "Chris Colman",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab694205"
+  },
+  "email_address": "max.cheung@superchoice.com.au",
+  "fullname": "Max Cheung",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab694207"
+  },
+  "email_address": "alex.vamos@superchoice.com.au",
+  "fullname": "Alex Vamos",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab694209"
+  },
+  "email_address": "nisha.hussain@superchoice.com.au",
+  "fullname": "Nisha Hussain",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab69420b"
+  },
+  "email_address": "erin.oshea@superchoice.com.au",
+  "fullname": "Erin O'Shea",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab69420d"
+  },
+  "email_address": "jason.border@superchoice.com.au",
+  "fullname": "Jason Border",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab69420f"
+  },
+  "email_address": "orna.nicholl@superchoice.com.au",
+  "fullname": "Orna Nicholl",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab694211"
+  },
+  "email_address": "clarissa.rosario@superchoice.com.au",
+  "fullname": "Clarissa Rosario",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18152b042e70ab694213"
+  },
+  "email_address": "sasikumar.sadasivam@superchoice.com.au",
+  "fullname": "Sasikumar Sadasivam",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694215"
+  },
+  "email_address": "tony.tan@superchoice.com.au",
+  "fullname": "Tony Tan",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694217"
+  },
+  "email_address": "christopher.mcneal@superchoice.com.au",
+  "fullname": "Christopher McNeal",
+  "city": "Lakeland",
+  "state": "Florida",
+  "country": "United States",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694219"
+  },
+  "email_address": "venkata.nagothi@superchoice.com.au",
+  "fullname": "Venkata Nagothi",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "country": "Australia",
+  "indexed": "2020-09-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69421b"
+  },
+  "email_address": "peter.philip@superchoice.com.au",
+  "password": "1c1852da86adf9a57b74633f862d7e2f",
+  "indexed": "2018-05-09",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69421d"
+  },
+  "email_address": "shirley.wong@superchoice.com.au",
+  "password": "swong12",
+  "indexed": "2020-11-13",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69421f"
+  },
+  "email_address": "colin.butler@superchoice.com.au",
+  "password": "Bonny1!!",
+  "indexed": "2020-02-15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694221"
+  },
+  "email_address": "enquiries@superchoice.com.au",
+  "fullname": "SuperChoice",
+  "city": "Sydney",
+  "country": "AUS",
+  "indexed": "2022-03-16",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694223"
+  },
+  "email_address": "peter.mcdonald@superchoice.com.au",
+  "password": "$2a$08$Fus9A6gHXxyS4KoyMpDPu.BpnG3fGMWaSNWnTemRjLEl9/6ZKxccW",
+  "indexed": "2017-02-05",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694225"
+  },
+  "email_address": "jason.korchinski@superchoice.com.au",
+  "indexed": "2021-04-21",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694227"
+  },
+  "email_address": "sudu.ratnappuly@superchoice.com.au",
+  "password": "__SEC__01v7YndU9aCpFsNuzUHrSxg232eWR1hWs/74BPgaxxXp59ODwJp522fu4gwIUsi/R9gRn1oGWnEA/pXDE06Ufk0AAIjBfuWxowh6o7a0",
+  "indexed": "2020-04-24",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694229"
+  },
+  "email_address": "pritch@superchoice.com.au",
+  "password": "552a321b1033cae254a0b445704ae7810a656045",
+  "indexed": "2020-02-07",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69422b"
+  },
+  "email_address": "claudette.couch@superchoice.com.au",
+  "indexed": "2020-02-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69422d"
+  },
+  "email_address": "jay.chiba@superchoice.com.au",
+  "indexed": "2020-02-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69422f"
+  },
+  "email_address": "tony.russell@superchoice.com.au",
+  "indexed": "2020-02-20",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694231"
+  },
+  "email_address": "deepthi.narayan@superchoice.com.au",
+  "fullname": "deepthi narayan",
+  "indexed": "2020-12-18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694233"
+  },
+  "email_address": "stuart.korchinski@gmail.com,stuartkorchinski@gmail.com,stuart.korchinski@superchoice.com.au",
+  "fullname": "stuart korchinski",
+  "indexed": "2020-12-17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694235"
+  },
+  "email_address": "nikita.lopez@superchoice.com.au",
+  "fullname": "nikita lopez",
+  "indexed": "2020-12-17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694237"
+  },
+  "email_address": "skorchinski@citistreet.com.au,stuart.korchinski@superchoice.com.au",
+  "fullname": "stuart korchinski",
+  "indexed": "2020-12-18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694239"
+  },
+  "email_address": "svanstaden@iqgroup.com.au,stephen.vanstaden@superchoice.com.au",
+  "fullname": "stephen van staden",
+  "indexed": "2020-12-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69423b"
+  },
+  "email_address": "nag1010@gmail.com,venkata.nagothi@superchoice.com.au",
+  "fullname": "venkata nagothi",
+  "indexed": "2020-12-17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69423d"
+  },
+  "email_address": "philip_r_white@yahoo.com.au,phil.white@superchoice.com.au",
+  "fullname": "phil white",
+  "indexed": "2020-12-20",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69423f"
+  },
+  "email_address": "jwtempleton65@gmail.com,john.templeton@veda.com.au,john.templeton@superchoice.com.au",
+  "fullname": "john templeton",
+  "indexed": "2020-12-18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694241"
+  },
+  "email_address": "janos.gyenge@gmail.com,janos.gyenge@superchoice.com.au",
+  "fullname": "janos gyenge",
+  "indexed": "2020-12-18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694243"
+  },
+  "email_address": "jase80@gmail.com,jason.border@superchoice.com.au",
+  "fullname": "jason border",
+  "indexed": "2020-12-18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694245"
+  },
+  "email_address": "peter.jong@superchoice.com.au",
+  "fullname": "peter jong",
+  "indexed": "2020-12-18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694247"
+  },
+  "email_address": "nasir.mahmood@superchoice.com.au",
+  "fullname": "nasir mahmood",
+  "indexed": "2020-12-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694249"
+  },
+  "email_address": "tgold@iqgroup.com.au,tony.gold@superchoice.com.au",
+  "fullname": "tony gold",
+  "indexed": "2020-12-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69424b"
+  },
+  "email_address": "james.h.wylde@gmail.com,jameshwylde@gmail.com,james.wylde@superchoice.com.au",
+  "fullname": "james wylde",
+  "indexed": "2020-12-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69424d"
+  },
+  "email_address": "andyj@contractorzoo.com.au,andyj@byte.com.au,andy.johnson@superchoice.com.au",
+  "fullname": "andy johnson",
+  "indexed": "2020-12-17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69424f"
+  },
+  "email_address": "vasudhaparpati@gmail.com,vasudha.parpati@fujixerox.com,vasudha.parpati@gmail.com,vasudha.parpati@superchoice.com.au",
+  "fullname": "vasudha parpati",
+  "indexed": "2020-12-18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694251"
+  },
+  "email_address": "jill.robert@superchoice.com.au",
+  "fullname": "jill robert",
+  "indexed": "2020-12-16",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694253"
+  },
+  "email_address": "shivanim85@gmail.com,shivani.mehta@superchoice.com.au",
+  "fullname": "shivani mehta",
+  "indexed": "2020-12-16",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694255"
+  },
+  "email_address": "brandon.sandoval@superchoice.com.au",
+  "fullname": "brandon sandoval",
+  "indexed": "2020-12-17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694257"
+  },
+  "email_address": "usha.antony@superchoice.com.au",
+  "fullname": "usha antony",
+  "indexed": "2020-12-17",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694259"
+  },
+  "email_address": "kara.cz@gmail.com,jaroslav.sedlacek@superchoice.com.au",
+  "fullname": "jaroslav sedlacek",
+  "indexed": "2020-12-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69425b"
+  },
+  "email_address": "mitty.rathnakumar@vodafone.com,mitty.rathnakumar@superchoice.com.au",
+  "fullname": "mitty rathnakumar",
+  "indexed": "2020-12-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69425d"
+  },
+  "email_address": "brizie_d@hotmail.com,brian.wilson@superchoice.com.au",
+  "fullname": "brian wilson",
+  "indexed": "2020-12-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69425f"
+  },
+  "email_address": "rob.woods@vedaadvantage.com,rob.woods@superchoice.com.au",
+  "fullname": "rob woods",
+  "indexed": "2020-12-20",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694261"
+  },
+  "email_address": "ram.byreddy@superchoice.com.au",
+  "password": "3ac2a0a94e50e6a152144e54bdeb579b:Ih:0",
+  "indexed": "2022-09-14",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694263"
+  },
+  "email_address": "david.spira@superchoice.com.au",
+  "indexed": "2020-08-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694265"
+  },
+  "email_address": "christine.koppe@superchoice.com.au",
+  "indexed": "2020-08-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694267"
+  },
+  "email_address": "mark.persohn@superchoice.com.au",
+  "indexed": "2020-08-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694269"
+  },
+  "email_address": "debi.phillips@superchoice.com.au",
+  "indexed": "2020-08-18",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69426b"
+  },
+  "email_address": "superchoiceenquiries@superchoice.com.au",
+  "indexed": "2020-08-20",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69426d"
+  },
+  "email_address": "maurice.hill@superchoice.com.au",
+  "indexed": "2020-08-19",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69426f"
+  },
+  "email_address": "mike.fielding@superchoice.com.au",
+  "state": "NSW",
+  "indexed": "2020-08-21",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694271"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694273"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694275"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694277"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694279"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69427b"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69427d"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69427f"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694281"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694283"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694285"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694287"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694289"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69428b"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69428d"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69428f"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694291"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694293"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694295"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694297"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab694299"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69429b"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69429d"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab69429f"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942a1"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942a3"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942a5"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942a7"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942a9"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942ab"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942ad"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942af"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942b1"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942b3"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942b5"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942b7"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942b9"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942bb"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942bd"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942bf"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942c1"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942c3"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942c5"
+  },
+  "email": "lyn.woods@superchoice.com.au",
+  "password": "913000",
+  "database_name": "BreachCompilation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644a18162b042e70ab6942c7"
+  },
+  "email": "justin.davis@superchoice.com.au",
+  "password": "",
+  "database_name": "Canva.com",
+  "__v": 0
+}]
